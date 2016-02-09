@@ -1,14 +1,14 @@
 {
   "subtitle": "Torne-se um \u00f3timo usu\u00e1rio de internet", 
   "uuid": "875af394bc4948e1be8a8de89727e135", 
-  "language": "por_PT", 
+  "language": "por_BR", 
   "title": "Principais dicas", 
   "image": null, 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "10-principais-dicas", 
